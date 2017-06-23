@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D7484721EFCB96B00602C67 /* .gitattributes in Resources */ = {isa = PBXBuildFile; fileRef = 8D7484711EFCB96B00602C67 /* .gitattributes */; };
 		A40295841B4B91C00005A2C1 /* FxBasePage.m in Sources */ = {isa = PBXBuildFile; fileRef = A40295831B4B91C00005A2C1 /* FxBasePage.m */; };
 		A402958B1B4BA2D20005A2C1 /* BaseInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = A402958A1B4BA2D20005A2C1 /* BaseInfo.m */; };
 		A402958E1B4BA5020005A2C1 /* ColumnInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = A402958D1B4BA5020005A2C1 /* ColumnInfo.m */; };
@@ -155,6 +156,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8D7484711EFCB96B00602C67 /* .gitattributes */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitattributes; sourceTree = "<group>"; };
 		A40295811B4B76E00005A2C1 /* NewsReader-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NewsReader-Prefix.pch"; sourceTree = "<group>"; };
 		A40295821B4B91C00005A2C1 /* FxBasePage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FxBasePage.h; sourceTree = "<group>"; };
 		A40295831B4B91C00005A2C1 /* FxBasePage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FxBasePage.m; sourceTree = "<group>"; };
@@ -492,6 +494,7 @@
 			isa = PBXGroup;
 			children = (
 				A479827B1B4AE41D00E55398 /* Readme */,
+				8D7484711EFCB96B00602C67 /* .gitattributes */,
 				A47982541B4AE3E300E55398 /* NewsReader */,
 				A479826E1B4AE3E400E55398 /* NewsReaderTests */,
 				A47982531B4AE3E300E55398 /* Products */,
@@ -1014,6 +1017,7 @@
 				A49D47201B5F965100139471 /* DetailPage.xib in Resources */,
 				A40BD8591B565A8200A3EB2A /* NewsWidget.xib in Resources */,
 				A49D470E1B5F922F00139471 /* content.css in Resources */,
+				8D7484721EFCB96B00602C67 /* .gitattributes in Resources */,
 				A44E6C9A1B4E55B2005E2BEC /* login_button@2x.png in Resources */,
 				A44E6C991B4E55B2005E2BEC /* home_page_line_vertical@2x.png in Resources */,
 				A48A3AA11B54EBCD00942758 /* NavigationSquare@2x.png in Resources */,
