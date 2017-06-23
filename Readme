@@ -1,0 +1,21 @@
+//
+//  Readme.h
+//  NewsReader
+//
+//  Created by hejinbo on 15/7/7.
+//  Copyright (c) 2015年 MyCos. All rights reserved.
+//
+
+-----1.0-----
+*发布日期：2015-7-7
+*修改内容：
+1.搭建系统框架
+2.设置应用图标及启动图
+3.MOVE模型之Model
+4.MOVE模型之Operation
+5.MOVE模型之View
+6.MOVE模型之Event
+7.显示当天广告
+8.定制导航栏
+9.定制底部导航栏
+10.增加栏目切换条

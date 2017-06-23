@@ -1,0 +1,21 @@
+//
+//  NewsReader-Prefix.pch
+//  NewsReader
+//
+//  Created by hejinbo on 15/7/7.
+//  Copyright (c) 2015年 MyCos. All rights reserved.
+//
+#import <Availability.h>
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import "FxGlobal.h"
+#import "Defines.h"
+#import "URLDefine.h"
+#import "FxJsonUtility.h"
+#import "FxFileUtility.h"
+#import "FxStatis.h"
+
+#endif
